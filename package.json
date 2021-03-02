@@ -6,10 +6,19 @@
     "build": "vite build"
   },
   "dependencies": {
+    "@popperjs/core": "^2.9.0",
+    "bootstrap": "^5.0.0-beta2",
+    "bootstrap-icons": "^1.4.0",
     "vue": "^3.0.4"
   },
   "devDependencies": {
-    "vite": "^1.0.0-rc.13",
-    "@vue/compiler-sfc": "^3.0.4"
+    "@typescript-eslint/eslint-plugin": "^4.16.1",
+    "@typescript-eslint/parser": "^4.16.1",
+    "@vue/compiler-sfc": "^3.0.4",
+    "eslint": "^7.21.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-vue": "^7.7.0",
+    "typescript": "^4.2.2",
+    "vite": "^1.0.0-rc.13"
   }
 }
